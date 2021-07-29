@@ -1,0 +1,1 @@
+#mostrar 3 actividades que realicen diariamente, validar que las actividades ingresadas, deben de ser diferentes a: alimentarse, reproducirse, dormir 
